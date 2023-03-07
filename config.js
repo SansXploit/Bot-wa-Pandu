@@ -34,16 +34,16 @@ global.swb = '-'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '82327056669'
+global.pdana = '6282327056669'
 global.povo = '-'
 global.pgopay = '-'
 global.ppulsa = '-'
 global.ppulsa2 = '82327056669'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281225380591'
-global.nomorown = '6281225380591'
-global.namebot = 'Mas Pandu'
+global.nomorbot = '6289537910066'
+global.nomorown = '6282327056669'
+global.namebot = 'Pandu'
 global.nameown = 'Pandu'
 
 
@@ -112,16 +112,16 @@ global.ultahowner = 'desember'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/d1aa836bc14b9fd8e5671.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/d1aa836bc14b9fd8e5671.jpg'
-global.giflogo = 'https://ibb.co/3sJ0ybv'
-global.giflogo2 = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
+global.thumb = 'https://h.top4top.io/p_2550aollg0.png' //Main Thumbnail
+global.imagebot = 'https://h.top4top.io/p_2550aollg0.png'
+global.giflogo = 'https://h.top4top.io/p_2550aollg0.png'
+global.giflogo2 = 'https://h.top4top.io/p_2550aollg0.png'
+global.thumbs = ['https://h.top4top.io/p_2550aollg0.png']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.thumbBanned = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
+global.thumbBanned = 'https://h.top4top.io/p_2550aollg0.png'
+global.thumbWarn = 'https://h.top4top.io/p_2550aollg0.png'
 global.botintro = 'Hallo, Kenalin saya Sans Bot Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh Mas Pandu  Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
-global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+global.intro = 'https://h.top4top.io/p_2550aollg0.png'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = 'pandu'
 global.umurowner = 'kepo'
